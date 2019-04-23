@@ -28,8 +28,7 @@ In order to determine which articles to show to each user, we will be performing
 This project is divided into the following tasks
 
 I. Exploratory Data Analysis
-Before making recommendations of any kind, we will need to explore the data you are working with for the project. Dive in to see what you can find.
-
+Before making recommendations of any kind, we will need to explore the data we are working with for the project.
 II. Rank Based Recommendations
 Finding the most popular articles simply based on the most interactions.
 
