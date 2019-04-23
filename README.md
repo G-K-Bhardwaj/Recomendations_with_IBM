@@ -37,7 +37,7 @@ III. User-User Based Collaborative Filtering
 In order to build better recommendations for the users of IBM's platform, we could look at users that are similar in terms of the items they have interacted with. These items could then be recommended to the similar users.
 
 IV. Matrix Factorization
-Finally, we will complete a machine learning approach to building recommendations. Using the user-item interactions, we will build out a matrix decomposition. Using our decomposition, we will get an idea of how well you can predict new articles an individual might interact with (spoiler alert - it isn't great).
+Finally, we will complete a machine learning approach to building recommendations. Using the user-item interactions, we will build out a matrix decomposition. Using our decomposition, we will get an idea of how well we can predict new articles an individual might interact with.
 
 
 ## File Descriptions <a name="files"></a>
